@@ -1,0 +1,2 @@
+This project is about predicting the final end of term grade of a student basing on his or her test results
+and various other conditions like study time, leisure time etc.
