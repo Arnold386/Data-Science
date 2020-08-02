@@ -1,0 +1,1 @@
+This project is about detection of fraudulent accounts basing on a series of given features in our dataset.
