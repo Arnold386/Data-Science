@@ -1,0 +1,2 @@
+This project is about the classification of diamonds and prediction of their prices basing on the diamonds
+natural features as shown in our dataset and expalined the dataset description.txt

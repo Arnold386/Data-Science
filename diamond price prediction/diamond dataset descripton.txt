@@ -1,0 +1,13 @@
+carat - normal carat ish like gold
+cut - described
+color - D colorless Z lightcolor D-Z considered white rest are colored
+clarity - ORDER IS F IF VVS VS SI I
+f flawless internally flawless very very slighty included si included
+depth - excellent(59-62.3) very good(58 - 58.9or62.4 - 63.5) good(57.5 - 57.9or63.6 - 64.1) fair(56.5 - 57.4or64.2 - 65)
+poor(< 56.5or> 65)
+table - excellent(53-58) vg(52-53or58 - 60) g(51or61 - 64) fair(50or65 - 69) poor(< 50or> 69)
+x-length in mm
+y-width in mm
+z-depth in mm
+
+check screen shot
